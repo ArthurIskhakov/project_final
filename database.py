@@ -37,9 +37,5 @@ def number_of_users_today(day):
 
 
 
-print(today_users('lskdfjglkdsjfgd'))
-print(number_of_users_today('s;fglk;'))
-
-
 
 
