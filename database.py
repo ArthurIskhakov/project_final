@@ -34,7 +34,7 @@ def number_of_users_today(day):
     else:
         unique_users = set(all_list)
         return len(unique_users)
-print('dsfg')
+print('dsfgggggg')
 
 
 
